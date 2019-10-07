@@ -1,0 +1,14 @@
+C:\Users\CLIENTE\Desktop\Repositorios\Baralho\Baralho.Api\bin\Debug\netcoreapp2.1\Baralho.Api.deps.json
+C:\Users\CLIENTE\Desktop\Repositorios\Baralho\Baralho.Api\bin\Debug\netcoreapp2.1\Baralho.Api.runtimeconfig.json
+C:\Users\CLIENTE\Desktop\Repositorios\Baralho\Baralho.Api\bin\Debug\netcoreapp2.1\Baralho.Api.runtimeconfig.dev.json
+C:\Users\CLIENTE\Desktop\Repositorios\Baralho\Baralho.Api\bin\Debug\netcoreapp2.1\Baralho.Api.dll
+C:\Users\CLIENTE\Desktop\Repositorios\Baralho\Baralho.Api\bin\Debug\netcoreapp2.1\Baralho.Api.pdb
+C:\Users\CLIENTE\Desktop\Repositorios\Baralho\Baralho.Api\obj\Debug\netcoreapp2.1\Baralho.Api.csprojAssemblyReference.cache
+C:\Users\CLIENTE\Desktop\Repositorios\Baralho\Baralho.Api\obj\Debug\netcoreapp2.1\Baralho.Api.csproj.CoreCompileInputs.cache
+C:\Users\CLIENTE\Desktop\Repositorios\Baralho\Baralho.Api\obj\Debug\netcoreapp2.1\Baralho.Api.RazorAssemblyInfo.cache
+C:\Users\CLIENTE\Desktop\Repositorios\Baralho\Baralho.Api\obj\Debug\netcoreapp2.1\Baralho.Api.RazorAssemblyInfo.cs
+C:\Users\CLIENTE\Desktop\Repositorios\Baralho\Baralho.Api\obj\Debug\netcoreapp2.1\Baralho.Api.AssemblyInfoInputs.cache
+C:\Users\CLIENTE\Desktop\Repositorios\Baralho\Baralho.Api\obj\Debug\netcoreapp2.1\Baralho.Api.AssemblyInfo.cs
+C:\Users\CLIENTE\Desktop\Repositorios\Baralho\Baralho.Api\obj\Debug\netcoreapp2.1\Baralho.Api.RazorTargetAssemblyInfo.cache
+C:\Users\CLIENTE\Desktop\Repositorios\Baralho\Baralho.Api\obj\Debug\netcoreapp2.1\Baralho.Api.dll
+C:\Users\CLIENTE\Desktop\Repositorios\Baralho\Baralho.Api\obj\Debug\netcoreapp2.1\Baralho.Api.pdb

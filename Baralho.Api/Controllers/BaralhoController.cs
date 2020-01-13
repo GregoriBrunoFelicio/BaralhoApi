@@ -5,7 +5,7 @@ namespace Baralho.Api.Controllers
     [Route("api/v1/baralho/")]
     public class BaralhoController: ControllerBase
     {
-        private Modelos.Baralho _baralho;
+        private readonly Modelos.Baralho _baralho;
 
         public BaralhoController() => _baralho = new Modelos.Baralho();
 

@@ -4,7 +4,6 @@ C:\Users\CLIENTE\Desktop\Repositorios\Baralho\Baralho.Api\bin\Debug\netcoreapp2.
 C:\Users\CLIENTE\Desktop\Repositorios\Baralho\Baralho.Api\bin\Debug\netcoreapp2.1\Baralho.Api.dll
 C:\Users\CLIENTE\Desktop\Repositorios\Baralho\Baralho.Api\bin\Debug\netcoreapp2.1\Baralho.Api.pdb
 C:\Users\CLIENTE\Desktop\Repositorios\Baralho\Baralho.Api\obj\Debug\netcoreapp2.1\Baralho.Api.csprojAssemblyReference.cache
-C:\Users\CLIENTE\Desktop\Repositorios\Baralho\Baralho.Api\obj\Debug\netcoreapp2.1\Baralho.Api.csproj.CoreCompileInputs.cache
 C:\Users\CLIENTE\Desktop\Repositorios\Baralho\Baralho.Api\obj\Debug\netcoreapp2.1\Baralho.Api.RazorAssemblyInfo.cache
 C:\Users\CLIENTE\Desktop\Repositorios\Baralho\Baralho.Api\obj\Debug\netcoreapp2.1\Baralho.Api.RazorAssemblyInfo.cs
 C:\Users\CLIENTE\Desktop\Repositorios\Baralho\Baralho.Api\obj\Debug\netcoreapp2.1\Baralho.Api.AssemblyInfoInputs.cache
@@ -12,3 +11,6 @@ C:\Users\CLIENTE\Desktop\Repositorios\Baralho\Baralho.Api\obj\Debug\netcoreapp2.
 C:\Users\CLIENTE\Desktop\Repositorios\Baralho\Baralho.Api\obj\Debug\netcoreapp2.1\Baralho.Api.RazorTargetAssemblyInfo.cache
 C:\Users\CLIENTE\Desktop\Repositorios\Baralho\Baralho.Api\obj\Debug\netcoreapp2.1\Baralho.Api.dll
 C:\Users\CLIENTE\Desktop\Repositorios\Baralho\Baralho.Api\obj\Debug\netcoreapp2.1\Baralho.Api.pdb
+C:\Users\CLIENTE\Desktop\Repositorios\Baralho\Baralho.Api\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\CLIENTE\Desktop\Repositorios\Baralho\Baralho.Api\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\CLIENTE\Desktop\Repositorios\Baralho\Baralho.Api\bin\Debug\netcoreapp2.1\Properties\launchSettings.json

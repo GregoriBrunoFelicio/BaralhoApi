@@ -1,37 +1,39 @@
 ﻿using Baralho.Api.Enums;
 using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 
 namespace Baralho.Api.Modelos
 {
     public class Baralho
     {
-        public List<Carta> Cartas => CriarBaralho();
-        public List<Carta> CartasEmbaralhadas => EmbaralharCartas();
-        private readonly IEnumerable<string> _valoresCartas;
+        public IList<Carta> Cartas => CriarBaralho();
+        public IList<Carta> CartasEmbaralhadas => EmbaralharCartas();
 
-        public Baralho() => _valoresCartas = new List<string>
+
+        private readonly IReadOnlyCollection<string> _valoresCartas = new Collection<string>
                     {
                         "AS", "2", "3", "4", "5", "6", "7", "8", "9", "10", "DAMA", "VALETE", "REI"
                     };
 
-        private List<Carta> CriarBaralho()
+
+        private IList<Carta> CriarBaralho()
         {
             var cartas = new List<Carta>();
 
             foreach (var valor in _valoresCartas)
-                cartas.AddRange(from object naipe in Enum.GetValues(typeof(Naipe)) select new Carta(valor, (Naipe)naipe));
+                cartas.AddRange(Enum.GetValues(typeof(Naipe))
+                    .Cast<object>()
+                    .Select(naipe => new Carta(valor, (Naipe)naipe)));
 
             return cartas;
         }
 
-        private List<Carta> EmbaralharCartas()
+        private IList<Carta> EmbaralharCartas()
         {
             var random = new Random();
-            var cartasEmbaralhadas = from c in Cartas let r = random.Next() orderby r select c;
-
-            return cartasEmbaralhadas.ToList();
+            return Cartas.Select(c => new { c, r = random.Next() }).OrderBy(@t => @t.r).Select(@t => @t.c).ToList();
         }
     }
 }
